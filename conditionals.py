@@ -1,3 +1,5 @@
+#Actividad de impresión de nucleotidos (Erick Ivan Gil Reyes)
+
 nucleotide = raw_input ("Input nucleotide A,C, T, G :")
 print nucleotide
 
