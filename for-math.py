@@ -1,5 +1,5 @@
-# for
-# math examples
+# Imprimiendo ejercicios matemáticos para saber como llenar datos a gran volumen sin ingresar tantos datos
+# Ejemplos (Actividad práctica Erick Ivan Gil Reyes)
 
 
 n = 10
