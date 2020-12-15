@@ -1,6 +1,6 @@
 # files
 # dna example
-#
+# lectura de proteínas, actividad en clase Erick Gil
 
 nucleotides = ["A", "C", "T", "G"]
 
