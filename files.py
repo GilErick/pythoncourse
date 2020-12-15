@@ -1,3 +1,5 @@
+#Practicas de impresiones intentos exitosos del ADN (Erick Ivan Gil Reyes)
+
 # files
 # adn example
 adn = ""
