@@ -1,4 +1,4 @@
-# for
+# Saludando al hola mundo (Erick Ivan Gil Reyes)
 # hello world
 
 #for i in range(1,1000):
