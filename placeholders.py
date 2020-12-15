@@ -1,6 +1,6 @@
-name = "mary"
-age = "19"
-city = "Orizaba"
+name = "Erick"
+age = "26"
+city = "Xalapa"
 State = "Veracruz"
 Country = "Mexico"
 
