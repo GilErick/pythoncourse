@@ -1,1 +1,91 @@
 
+% Author: Erick Ivan Gil Reyes 
+% Protein E related to SARS-CoV-2
+
+ 
+\documentclass{beamer}
+\setbeamertemplate{navigation symbols}{}
+\usepackage[utf8]{inputenc}
+\usepackage{beamerthemeshadow}
+\usepackage{listings}
+\usepackage{hyperref}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=green!50!orange,
+  urlcolor=black!70!brown}
+
+\begin{document}
+
+\title{Universidad Veracruzana}  
+\subtitle{Instituto de Investigaciones Cerebrales\\COMPUTACION CIENTÍFICA Y BIOINFORMÁTICA}
+\author{Erick Ivan Gil Reyes}
+\date{\today} 
+
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}\frametitle{Table of contents}
+\tableofcontents
+\end{frame} 
+
+
+\section{Final Work - For Evaluation}
+
+\begin{frame}
+
+\textbf{Accesos:}
+
+\begin{enumerate}
+
+\item
+	Repositorio general: \href{https://github.com/GilErick/pythoncourse/tree/master}{(Página de acceso)}.	
+
+\item Actividades de la clase: 
+\href {https://www.dropbox.com/home/Actividades} {(Link)}
+
+\item Proceso de creación de LaTeX: \href{https://www.dropbox.com/home/LaTeX}{(Link)}
+
+\item Molecula  AutoDock:
+\href{https://www.dropbox.com/home/AutoDock}{(Link)}
+
+
+\item
+    Proceso de creación del Video final:  \href{https://www.dropbox.com/home/Video}{(Link)}.
+
+	
+
+\end{enumerate} 
+
+\end{frame}
+
+
+\section{Agradecimientos}
+
+\begin{frame}
+
+
+Agradecimientos
+
+\end{frame}
+
+
+
+
+\section{Resultado}
+
+\begin{frame}
+
+\begin{enumerate}
+
+\item  Resultado esperado \href{https://www.dropbox.com/home/Resultado}{(Link)}   
+\end{enumerate} 
+
+
+\end{frame}
+
+
+
+\end{document}
