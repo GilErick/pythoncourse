@@ -1,3 +1,5 @@
+"Formas de crear diccionarios para lectura (Erick Ivan Gil Reyes)
+
 nucleotidos = {"A":"Adenina", "C": "Citosina", "G":"Guanina", "T":"Timina"}
 
 print len (nucleotidos)
