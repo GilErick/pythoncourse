@@ -1,3 +1,5 @@
+# Prueba de impresiones de alineamientos (Erick Ivan Gil Reyes)
+
 from Bio import AlignIO
 alignment = AlignIO.read("PF05371_seed.faa", "fasta")
 
