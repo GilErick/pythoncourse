@@ -1,6 +1,6 @@
 # files
 # dna example
-#
+# Probando diferentes técnicas para lectura de estos archivos (Erick Ivan Gil Reyes con el apoyo de Adolfo Centeno)
 
 nucleotides = ["A", "C", "T", "G"]
 
