@@ -1,3 +1,5 @@
+#Prueba de impresión de secuencia reversa (Erick Ivan Gil Reyes)
+
 from Bio.Seq import Seq
 my_seq = Seq("AGTACACTGGT")
 print (my_seq)
