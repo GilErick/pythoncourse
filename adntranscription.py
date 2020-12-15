@@ -1,6 +1,6 @@
 # files
 # dna example
-#
+# Intento de transcripción logrado en clase de Adolfo (Erick Gil)
 
 nucleotides = ["A", "C", "T", "G"]
 
