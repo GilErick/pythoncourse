@@ -1,5 +1,5 @@
 # Erick Ivan Gil Reyes
-# Ejercicios en clase lectura del ADN y secciones
+# Ejercicios en clase lectura del ADN y secciones, Conteo total
 adn = "ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAA"
 n = len(adn)
 
