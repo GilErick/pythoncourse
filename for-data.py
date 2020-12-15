@@ -1,5 +1,5 @@
-# for
-# data examples
+# Erick Ivan Gil Reyes
+# Ejercicios en clase lectura del ADN y secciones
 adn = "ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAA"
 n = len(adn)
 
