@@ -1,3 +1,5 @@
+#Actividad de clase biorchid (Erick Ivan Gil Reyes)
+
 from Bio import SeqIO
 for seq_record in SeqIO.parse("ls_orchid.fasta", "fasta"):
     print (seq_record.id)
