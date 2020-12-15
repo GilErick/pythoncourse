@@ -1,3 +1,4 @@
+#Actividad para la impresión de secuencias (Erick Ivan Gil Reyes)
 from Bio.Seq import Seq
 my_seq = Seq("AGTACACTGGT")
 print (my_seq)
