@@ -13,7 +13,7 @@
 \hypersetup{
   colorlinks=true,
   linkcolor=green!50!orange,
-  urlcolor=black!70!brown}
+  urlcolor=black!70!red}
 
 \begin{document}
 
@@ -44,16 +44,18 @@
 	Repositorio general: \href{https://github.com/GilErick/pythoncourse/tree/master}{(Página de acceso)}.	
 
 \item Actividades de la clase: 
-\href {https://www.dropbox.com/home/Actividades} {(Link)}
+\href {https://www.dropbox.com/sh/nqvzywegon554n5/AACUapCpAbJrJHce64DimwK4a?dl=0} {(Link)}
 
-\item Proceso de creación de LaTeX: \href{https://www.dropbox.com/home/LaTeX}{(Link)}
+\item Proceso de creación de LaTeX: \href{https://www.dropbox.com/sh/wdztqpoktzhsiu7/AABaT_jOSHbjzKlXAIXR3ZT7a?dl=0}{(Link)}
 
 \item Molecula  AutoDock:
-\href{https://www.dropbox.com/home/AutoDock}{(Link)}
-
+\href{https://www.dropbox.com/sh/trpfkmaeu7j61c2/AADZDlNqdB-oQ9fJnvm7LKKxa?dl=0}{(Link)}
 
 \item
-    Proceso de creación del Video final:  \href{https://www.dropbox.com/home/Video}{(Link)}.
+    Reporte técnico:  \href{https://www.dropbox.com/sh/s40epxu2amh833q/AAD_472WXqTg0NyPwVSh1C7xa?dl=0}{(Link)}.
+
+\item
+    Proceso de creación del Video final:  \href{https://www.dropbox.com/sh/s8khnnfnr0czplz/AABGHsRUg1GINK8G2HiDUEb0a?dl=0}{(Link)}.
 
 	
 
@@ -80,7 +82,7 @@ Agradecimientos
 
 \begin{enumerate}
 
-\item  Resultado esperado \href{https://www.dropbox.com/home/Resultado}{(Link)}   
+\item  Resultado esperado \href{https://www.dropbox.com/sh/l5s0umg8y8lkqk5/AADFpddmiSeazXpfJpSKsBKda?dl=0}{(Link)}   
 \end{enumerate} 
 
 
